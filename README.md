@@ -1,0 +1,2 @@
+# assets
+Our static assets
